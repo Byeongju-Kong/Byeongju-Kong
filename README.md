@@ -1,4 +1,6 @@
 ### 👨🏻‍💻 Working Hard 👨🏻‍💻
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeongju-Kong&hide=contribs,prs)
+
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
