@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 Working Hard 👨🏻‍💻
 
-<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 
 <!--
 **Byeongju-Kong/Byeongju-Kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
