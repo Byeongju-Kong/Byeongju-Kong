@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byeongju-Kong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://velog.io/@byeongju/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 <!--
 **Byeongju-Kong/Byeongju-Kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
